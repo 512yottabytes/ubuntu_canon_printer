@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/.env bash
 
 ##################################################
 #Version 3.3 updated on September 13, 2019
