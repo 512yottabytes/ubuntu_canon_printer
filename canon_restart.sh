@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 [ $USER != 'root' ] && exec sudo "$0"
 
